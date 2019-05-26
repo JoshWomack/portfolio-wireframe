@@ -98,10 +98,14 @@
  }
 
  .contact {
-   background-color: #999;
-   padding: 10px;
    margin-bottom: 30px;
    margin-top: 0px;
+
+ }
+
+ .contact-info {
+   background-color: #999;
+   padding: 10px;
  }
 
 
